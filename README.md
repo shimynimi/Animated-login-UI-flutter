@@ -1,4 +1,4 @@
-# flutterloginui
+# Flutter Login UI
 
 A simple Animated login UI with get started and login and sign up screen in Flutter, a mobile sdk framework by Google.
 
